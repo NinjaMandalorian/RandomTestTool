@@ -7,3 +7,4 @@
 lune = "lune-org/lune@0.10.4"
 selene = "Kampfkarren/selene@0.30.1"
 darklua = "seaofvoices/darklua@0.18.0"
+RandomTestTool = "NinjaMandalorian/RandomTestTool@0.0.1"
